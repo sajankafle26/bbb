@@ -1,0 +1,23 @@
+.logo 
+{
+    width: 120px;
+}
+.searchbox 
+{
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHBhdGggZD0iTTE5LjgyNSAxOC45OGwtNC44Ni00Ljg2YTguNDkzIDguNDkzIDAgMCAwIDIuMDkzLTUuNTkyQzE3LjA1OCAzLjgyMyAxMy4yMyAwIDguNTMgMCAzLjgyNSAwIC4wMDIgMy44MjcuMDAyIDguNTI4YzAgNC43IDMuODI3IDguNTI3IDguNTI4IDguNTI3YTguNDkzIDguNDkzIDAgMCAwIDUuNTkyLTIuMDkzbDQuODYgNC44NmEuNi42IDAgMCAwIC40MjIuMTc4LjYuNiAwIDAgMCAuNDIxLTEuMDJ6TTEuMTk1IDguNTI4YzAtNC4wNDUgMy4yOS03LjMzIDcuMzMtNy4zMyA0LjA0NSAwIDcuMzMgMy4yOSA3LjMzIDcuMzNzLTMuMjg1IDcuMzM1LTcuMzMgNy4zMzVjLTQuMDQgMC03LjMzLTMuMjktNy4zMy03LjMzNXoiLz48L3N2Zz4=);
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: 10px 8px;
+}
+.qty
+{
+    width: 100px;
+    
+}
+@media(min-width: 1220px)
+{
+    .container 
+    {
+        max-width: 1240px;
+    }
+}
